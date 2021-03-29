@@ -10,7 +10,7 @@ const JSDOC_MERMAID_TAG = /@mermaid\b/
  * @constant {string} MERMAID_VERSION
  * @description Semver Mermaid version
  */
-const MERMAID_VERSION = '8.4.8'
+const MERMAID_VERSION = 'latest'
 
 /**
  * @constant {string} MERMAID_HTML_SCRIPT
